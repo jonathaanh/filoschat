@@ -27,6 +27,6 @@ We may update this privacy policy from time to time. The most current version of
 
 Contact Us
 
-If you have any questions or concerns about this privacy policy, please contact us at .
+If you have any questions or concerns about this privacy policy, please contact us at filoschat@gmail.com.
 
 This privacy policy was last updated on January 17th, 2023.
