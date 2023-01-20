@@ -1,7 +1,7 @@
 A free chrome extension that uses OpenAI's GPT-3 to generate personalized, professional emails with just a few clicks. Improve your email productivity with this easy to use extension. Download now for free.
 
 
-[Download Now](http://www.google.com){: .btn}
+[Download Now](https://chrome.google.com/webstore/detail/filos-chat/lkicjijaaebgeogmhdeaobfoobnkonel?hl=en){: .btn}
 
 ## Privacy Policy
 
